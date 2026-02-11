@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Valentine's Day Gift Website
 
 A beautiful, single-page Valentine's Day website.
@@ -18,3 +19,7 @@ This project is ready to be deployed on Vercel.
 
 ### Note on `vercel.json`
 A `vercel.json` file has been included to ensuring that all routes point to `index.html`. This is helpful if you expand functionality or link to specific sections.
+=======
+# valentines-web-1
+Forever Yes — A beautiful customizable Valentine proposal website built with pure HTML, CSS, and JavaScript. Includes romantic UI, floating heart animations, music support, love letter customization, and a playful proposal interaction. Fully static and Vercel-ready.
+>>>>>>> b84314a1b68582d77af99ea8835614e30bd74d5d
